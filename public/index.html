@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>🏆 Quiz dos Escudos de Futebol</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Biblioteca Socket.IO -->
+    <script src="/socket.io/socket.io.js"></script>
+    <!-- Nosso código cliente -->
+    <script src="client.js" defer></script>
+</head>
+
+<body>
+    <!-- Modal para nome do jogador -->
+    <div id="nameModal" class="modal">
+        <div class="modal-content">
+            <h2>🎮 Bem-vindo ao Quiz dos Escudos!</h2>
+            <p>Digite seu nome para começar a jogar:</p>
+            <input type="text" id="playerNameInput" placeholder="Seu nome..." maxlength="20">
+            <button id="startGameBtn">Começar Jogo</button>
+        </div>
+    </div>
+
+    <!-- Interface do jogo -->
+    <div id="gameInterface" style="display: none;">
+        <header>
+            <h1>🏆 Quiz dos Escudos de Futebol</h1>
+            <div id="playerInfo">
+                <span id="playerName"></span> - <span id="playerScore">0</span> pontos
+            </div>
+        </header>
+
+        <main>
+            <div id="gameArea">
+                <div id="shieldContainer">
+                    <img id="escudo" src="" alt="Escudo aparecerá aqui">
+                </div>
+                
+                <div id="answerSection">
+                    <h3>Qual time tem este escudo?</h3>
+                    <div id="answerForm">
+                        <input type="text" id="answerInput" placeholder="Digite o nome do time..." autocomplete="off">
+                        <button id="submitBtn">Enviar</button>
+                    </div>
+                    <div id="feedback"></div>
+                </div>
+            </div>
+
+            <aside id="ranking">
+                <h3>🏅 Ranking</h3>
+                <ol id="rankingList">
+                    <li>Aguardando jogadores...</li>
+                </ol>
+            </aside>
+        </main>
+    </div>
+</body>
+
+</html>

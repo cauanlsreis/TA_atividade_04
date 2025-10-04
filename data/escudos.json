@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "nome": "Barcelona",
+    "pais": "Espanha",
+    "liga": "La Liga",
+    "url": "https://www.jetpunk.com/img/user-img/51/51cb1ce904-450.webp",
+    "alternativas": [
+      "Barça",
+      "FC Barcelona"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Liverpool",
+    "pais": "Inglaterra",
+    "liga": "Premier League",
+    "url": "https://www.jetpunk.com/img/user-img/de/de8e14e66e-450.webp",
+    "alternativas": [
+      "LFC",
+      "Liverpool FC"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Roma",
+    "pais": "Itália",
+    "liga": "Serie A",
+    "url": "https://www.jetpunk.com/img/user-img/53/5358ee830a-450.webp",
+    "alternativas": [
+      "AS Roma"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Real Madrid",
+    "pais": "Espanha",
+    "liga": "La Liga",
+    "url": "https://www.jetpunk.com/img/user-img/a9/a974c0ca83-450.webp",
+    "alternativas": [
+      "Real",
+      "Real Madrid CF"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Bayern Munique",
+    "pais": "Alemanha",
+    "liga": "Bundesliga",
+    "url": "https://www.jetpunk.com/img/user-img/5b/5bb3806547-450.webp",
+    "alternativas": [
+      "FC Bayern",
+      "Bayern"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "PSG",
+    "pais": "França",
+    "liga": "Ligue 1",
+    "url": "https://www.jetpunk.com/img/user-img/22/222ec5d488-450.webp",
+    "alternativas": [
+      "Paris SG",
+      "Paris Saint-Germain"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Hull City",
+    "pais": "Inglaterra",
+    "liga": "Championship",
+    "url": "https://www.jetpunk.com/img/user-img/ee/eeea9280d4-450.webp",
+    "alternativas": [
+      "Hull"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Olympiacos",
+    "pais": "Grécia",
+    "liga": "Super League Greece",
+    "url": "https://www.jetpunk.com/img/user-img/57/57011c9172-450.webp",
+    "alternativas": [
+      "Olympiacos CFP"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Leicester",
+    "pais": "Inglaterra",
+    "liga": "Premier League",
+    "url": "https://www.jetpunk.com/img/user-img/98/98649d9a9a-450.webp",
+    "alternativas": [
+      "Leicester City",
+      "LCFC"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Santos",
+    "pais": "Brasil",
+    "liga": "Brasileirão",
+    "url": "https://www.jetpunk.com/img/user-img/c0/c0cf18f171-450.webp",
+    "alternativas": [
+      "Peixe",
+      "Santos FC"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Galatasaray",
+    "pais": "Turquia",
+    "liga": "Süper Lig",
+    "url": "https://www.jetpunk.com/img/user-img/c1/c1b6eabbcd-450.webp",
+    "alternativas": []
+  },
+  {
+    "id": 12,
+    "nome": "Swansea",
+    "pais": "País de Gales",
+    "liga": "Championship",
+    "url": "https://www.jetpunk.com/img/user-img/5e/5e8e639885-450.webp",
+    "alternativas": [
+      "Swansea City",
+      "Swans"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Valencia",
+    "pais": "Espanha",
+    "liga": "La Liga",
+    "url": "https://www.jetpunk.com/img/user-img/64/640aad9572-450.webp",
+    "alternativas": [
+      "Valencia CF"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Juventus",
+    "pais": "Itália",
+    "liga": "Serie A",
+    "url": "https://www.jetpunk.com/img/user-img/b3/b3014d6e52-450.webp",
+    "alternativas": [
+      "Juve"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Benfica",
+    "pais": "Portugal",
+    "liga": "Primeira Liga",
+    "url": "https://www.jetpunk.com/img/user-img/58/5830572a8b-450.webp",
+    "alternativas": [
+      "SL Benfica"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Wolves",
+    "pais": "Inglaterra",
+    "liga": "Premier League",
+    "url": "https://www.jetpunk.com/img/user-img/67/67b5e853fd-450.webp",
+    "alternativas": [
+      "Wolverhampton",
+      "Wolverhampton Wanderers"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Koln",
+    "pais": "Alemanha",
+    "liga": "Bundesliga",
+    "url": "https://www.jetpunk.com/img/user-img/14/14f882bb10-450.webp",
+    "alternativas": [
+      "FC Köln",
+      "Colônia"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Kaizer Chiefs",
+    "pais": "África do Sul",
+    "liga": "Premier Soccer League",
+    "url": "https://www.jetpunk.com/img/user-img/a5/a516394c7b-450.webp",
+    "alternativas": [
+      "Kaizer"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Nottingham",
+    "pais": "Inglaterra",
+    "liga": "Premier League",
+    "url": "https://www.jetpunk.com/img/user-img/5d/5d56619a3c-450.webp",
+    "alternativas": [
+      "Nottingham Forest",
+      "Forest"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Hajduk",
+    "pais": "Croácia",
+    "liga": "Prva HNL",
+    "url": "https://www.jetpunk.com/img/user-img/79/7938aa4342-450.webp",
+    "alternativas": [
+      "Hajduk Split"
+    ]
+  }
+]
